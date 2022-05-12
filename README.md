@@ -1,2 +1,2 @@
 # projects
-compilation of data science projects
+compilation of Tree-based and Machine Learning projects
